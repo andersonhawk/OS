@@ -1,0 +1,4 @@
+
+## character device driver
+major device number: identify device driver
+minor device number: identify device number
